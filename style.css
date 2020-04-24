@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'PT Sans', sans-serif;
+    width: 1440px;
+}
+
+img {
+    margin: 77px 633px 613px 633px;
+    position: absolute;
+}
+
+.slide {
+    height: 740px;
+    background-color: #FCDB00;
+}
+
+p,
+h2 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+}
+
+h2 {
+    margin: 251px 151px 425px 149px;
+    font-size: 48px;
+    line-height: 62px;
+}
+
+p {
+    padding: 321px 343px 317px 343px;
+    font-size: 24px;
+    line-height: 31px;
+}
+
+.vector1,
+.vector2,
+.vector3 {
+    background-color: #000;
+    width: 24px;
+    height: 4px;
+    position: absolute;
+    border-radius: 3px;
+}
+
+.vector1 {
+    margin: 92px 1266px 644px 150px;
+}
+
+.vector2 {
+    margin: 100px 1266px 644px 150px;
+}
+
+.vector3 {
+    margin: 108px 1266px 644px 150px;
+}
+
+.kvad1,
+.kvad2,
+.kvad3 {
+    position: absolute;
+    background-color: #000;
+    border-radius: 2px;
+    width: 24px;
+    height: 24px;
+}
+
+.kvad1 {
+    margin: 90px 227px 626px 1189px;
+}
+
+.kvad2 {
+    margin: 90px 227px 626px 1228px;
+}
+
+.kvad3 {
+    margin: 90px 227px 626px 1266px;
+}
+
+.ellipse1,
+.ellipse2,
+.ellipse3 {
+    position: absolute;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+}
+
+.ellipse1 {
+    margin: 649px 738px 76px 687px;
+}
+
+.ellipse2 {
+    margin: 649px 713px 76px 712px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.ellipse3 {
+    margin: 649px 688px 76px 737px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.content {
+    height: 840px;
+}
+
+.footer {
+    height: 740px;
+}
